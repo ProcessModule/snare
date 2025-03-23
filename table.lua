@@ -5,10 +5,8 @@ REPORT THEM IN OUR DISCORD CHANNEL CALLED "BUGS"
 
 ]]
 
+script_key="key here dumbass"; -- // Put ur key here
 getgenv().Snare = {
-    ["Loader"] = {
-        ['Key'] = ('Put-Key-Here')
-    },
     ["Universal"] = {
         ['Checks'] = { 
             ['Crew'] = (false),
