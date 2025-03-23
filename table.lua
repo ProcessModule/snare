@@ -26,7 +26,7 @@ getgenv().Snare = {
         }
     },
     ["Silent Aim"] = {
-        ['Enabled'] = (false),
+        ['Enabled'] = (false), -- // Bugged If u dont want to use Silent-Aim Turn Toggles On and Put the keybind to something u wouldn't click
         ['Prediction'] = {0, 0, 0},
         ['Toggles'] = {
             ['Enabled'] = (false),
@@ -66,7 +66,7 @@ getgenv().Snare = {
         }
     },
     ["CamLock"] = {
-        ['Enabled'] = (false),
+        ['Enabled'] = (false), -- // Bugged Right Now If U don't Want to Use Cam-Lock put the Key to something you wouldn't click
         ['Toggle'] = {
             ['Mode'] = ('Key'),
             ['Key'] = ('Q'),
